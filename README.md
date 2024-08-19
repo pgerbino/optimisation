@@ -1,0 +1,1 @@
+Simple repo to play with optimizers and constraints
